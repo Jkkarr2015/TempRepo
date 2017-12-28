@@ -1,0 +1,3 @@
+[submodule "NewLibrary"]
+	path = NewLibrary
+	url = https://github.com/Jkkarr2015/NewLibrary.git
